@@ -12,12 +12,6 @@ This is the code for the paper:
 
 The versions are just what I used and not necessarily strict requirements.
 
-## Installation
-
-- To install, `cd` into the root directory and type `pip install -e .`
-
-- Known dependencies: Python (3.5.4), OpenAI gym (0.10.5), tensorflow (1.8.0), numpy (1.14.5)
-
 ## How to Run
 The "Resource Collection" environment from our paper is referred to as `expand_simple_spread` in this repo, 
 "Multi-Point Transportation" is referred to as `simple_push_ball`, and "Endangered Wildlife Rescue" is referred to as `rescue`.
